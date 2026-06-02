@@ -105,7 +105,7 @@ Follow these steps to clone the repository that contains all of the lab files:
 
     ```
     I am starting a coding lab. Can you clone this repository and tell me what's in it?
-    Repository: https://github.ibm.com/amikumar/soccer-world-cup-2026-lab-1.git
+    Repository: https://github.com/IBM-SkillsBuild-AI-Builders-Challenge/hands-on-labs/tree/main/02_football_lab_june
     Branch: main
     ```
 

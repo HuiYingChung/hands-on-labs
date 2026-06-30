@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data and model artefacts
+02_football_lab_june/03_jupyter_notebook/data/
+02_football_lab_june/03_jupyter_notebook/models/
+
+# Python
+__pycache__/
+*.py[cod]
+

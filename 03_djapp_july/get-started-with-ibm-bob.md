@@ -14,15 +14,15 @@ Watch the following video to see a preview of the steps to sign up for IBM Bob.
 
 ## Sign up for a free trial account
 
-The trial account provides access to IBM Bob for 30 days, and includes 40 bobcoins to use. Follow these steps to sign up for a free trial account.
+The trial account provides access to IBM Bob for 30 days and includes 40 Bobcoins to use. Follow these steps to sign up for a free trial account.
 
 **Tip:** Right-click the following link, and open the page in a new tab.
 
-1. Visit at [bob.ibm.com](http://bob.ibm.com) to start your free trial.
-1. Click **Get free tiral**.
+1. Start your free IBM Bob trial at [ibm.biz/university-bob](http://ibm.biz/university-bob).
+1. Click **Get free trial**.
 1. Choose how to sign up:
-   - Click **Start free tiral with Google** to sign up with your google account.
-   - Type your eamil address, password, first name, last name, country, and company, then click **Next**.
+   - Click **Start free trial with Google** to sign up with your Google account.
+   - Type your email address, password, first name, last name, country, and company, then click **Next**.
 1. Open the verification email, and copy the code.
 1. Return to the sign up page, paste the code, click **Submit**, and wait for your account to be created.
 1. When your trial is ready, click **Access your trial now**.
